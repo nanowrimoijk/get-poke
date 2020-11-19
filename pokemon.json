@@ -1,0 +1,95 @@
+{
+  "pokemon": [
+    {
+      "name": "charizard",
+      "type1": "fire",
+      "type2": "flying",
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "special": null,
+      "speed": 100
+    },
+    {
+      "name": "charmander",
+      "type1": "fire",
+      "type2": null,
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "special": 50,
+      "speed": 65
+    },
+    {
+      "name": "squirtle",
+      "type1": "water",
+      "type2": null,
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "special": 50,
+      "speed": 43
+    },
+    {
+      "name": "bulbasaur",
+      "type1": "grass",
+      "type2": "poison",
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "special": 65,
+      "speed": 45
+    },
+    {
+      "name": "vulpix",
+      "type1": "fire",
+      "type2": null,
+      "hp": 38,
+      "attack": 41,
+      "defense": 40,
+      "special": 65,
+      "speed": 65
+    },
+    {
+      "name": "vaporeon",
+      "type1": "water",
+      "type2": null,
+      "hp": 130,
+      "attack": 65,
+      "defense": 60,
+      "special": 120,
+      "speed": 65
+    },
+    {
+      "name": "dragonite",
+      "type1": "dragon",
+      "type2": "flying",
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "special": 100,
+      "speed": 80
+    },
+    {
+      "name": "rhydon",
+      "type1": "ground",
+      "type2": "rock",
+      "hp": 105,
+      "attack": 130,
+      "defense": 120,
+      "special": 45,
+      "speed": 40
+    },
+    {
+      "name": "pidgeot",
+      "type1": "normal",
+      "type2": "flying",
+      "hp": 83,
+      "attack": 80,
+      "defense": 75,
+      "special": 70,
+      "speed": 101
+    }
+  ],
+  "ids": []
+}
